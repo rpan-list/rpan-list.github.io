@@ -1,4 +1,4 @@
-Based on [/u/xqzc](https://www.reddit.com/users/xqzc)'s awesome work to [save over 11k RPAN streams](https://www.reddit.com/r/pan/comments/cuy6lb/ive_saved_about_900_gb_of_rpan_streams_11k_files/ey6qdt5/) and [/u/PhirePhly](https://www.reddit.com/users/PhirePhly)'s generous hosting of a mirror for all these files, here's a full index of the available streams with title and author fully searchable.
+Based on [/u/xqzc](https://www.reddit.com/users/xqzc)'s awesome work to [save over 11k RPAN streams](https://www.reddit.com/r/pan/comments/cuy6lb/ive_saved_about_900_gb_of_rpan_streams_11k_files/) and [/u/PhirePhly](https://www.reddit.com/users/PhirePhly)'s generous hosting of a mirror for all these files, here's a full index of the available streams with title and author fully searchable.
 
 If you appreciate the work and have the resources, please help by contributing to the seeding of the [torrent](https://mirror.thelifeofkenneth.com/sites/abra.me/pan/mp4/rpan.torrent).
 
