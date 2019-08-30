@@ -2,7 +2,7 @@ Based on [/u/xqzc](https://www.reddit.com/users/xqzc)'s awesome work to [save ov
 
 If you appreciate the work and have the resources, please help by contributing to the seeding of the [torrent](https://mirror.thelifeofkenneth.com/sites/abra.me/pan/mp4/rpan.torrent).
 
-Time (PDT)|Title|Author|Upvotes|Comments|Size|
+Time (PDT)|Title|Author|Upvotes|Comments|Size|Length
 --|--|--|--|--|--|--
 Aug 20 2019 09:16:56|[RPAN CHESS TEAM BLACK \- YOU DECIDE THE NEXT MOVE\!](https://mirror.thelifeofkenneth.com/sites/abra.me/pan/mp4/t3_ct4ylj_1566317816.mp4)|[/u/Sn00byD00](https://www.reddit.com/user/Sn00byD00)|2,411|[1,693 comments](https://www.reddit.com/r/pan_media/comments/ct4ylj/rpan_chess_team_black_you_decide_the_next_move/)|301.29 MB|52:56.64
 Aug 20 2019 09:16:56|[ROAM CHESS \- TEAM WHITE \- YOU PICK THE NEXT MOVE\!](https://mirror.thelifeofkenneth.com/sites/abra.me/pan/mp4/t3_ct4yln_1566317816.mp4)|[/u/mark](https://www.reddit.com/user/mark)|615|[727 comments](https://www.reddit.com/r/pan_media/comments/ct4yln/roam_chess_team_white_you_pick_the_next_move/)|193.45 MB|53:12.00
